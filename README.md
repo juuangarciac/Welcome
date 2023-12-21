@@ -9,6 +9,6 @@ La estructura que sigo para organizar mis proyectos es la que se puede observar 
 
 ## Contacto
 
-Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juan.garcia@gmail.com o seguirme en Twitter @juangarcia.
+Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juangarcandon@gmail.com.
 
 ¡Gracias por visitar mi portafolio!
