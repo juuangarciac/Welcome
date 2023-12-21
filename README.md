@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Juan Garcia, un desarrollador de software con experiencia. Este es mi portafolio de GitHub, donde comparto algunos de mis proyectos y habilidades.
 
-La estructura que sigo para organizar mis proyectos es la que se puede observar en la siguiente [imagen](./img/organizacion.png).
+La estructura que sigo para organizar mis proyectos es la que se puede observar en la siguiente [imagen](./img/Portafolio-organizacion-directorios-2324.png).
 
 ## Proyectos
 
