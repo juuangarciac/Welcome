@@ -1,5 +1,5 @@
 version: '2'
-
+# To-Do: Desplegar aplicación de laravel
 services:
   mariadb:
     image: docker.io/bitnami/mariadb:11.1
@@ -8,19 +8,6 @@ services:
       - ALLOW_EMPTY_PASSWORD=yes
       - MARIADB_USER=user
       - MARIADB_DATABASE=mywineshop
-  myapp:
-    image: docker.io/bitnami/laravel:10
-    ports:
-      - '8000:8000'
-    environment:
-      - DB_HOST=mariadb
-      - DB_PORT=3306
-      - DB_USERNAME=user
-      - DB_DATABASE=mywineshop
-    volumes:
-      - './mywineshop:/app'
-    depends_on:
-      - mariadb
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
     ports:
