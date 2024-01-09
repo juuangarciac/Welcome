@@ -6,10 +6,6 @@ La estructura que sigo para organizar mis proyectos es la que se puede observar 
 
 ## Proyectos
 
-
-## Despliegue
-**TODO: Realizar el despliegue de las aplicaciones mediante pipelines en GitHub.pages**
-
 ## Contacto
 
 Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juangarcandon@gmail.com.
