@@ -3,8 +3,6 @@
 ¡Hola! Soy Juan Garcia, un desarrollador de software con experiencia. Este es mi portafolio de GitHub, donde comparto algunos de mis proyectos y habilidades.
 
 ## Proyectos
-Algunos de mis proyectos:
-
 ### Aplicaciones de Terminal
    - [**Tienda electrónica**](https://github.com/juuangarciac/es.uca.e-shop.cpp): Aplicación de terminal desarrollada exclusivamente con el lenguaje de programación *C++*. Esta aplicación formó parte de mi aprendizaje en la *Programación Orientada a Objetos*, introduciendome a conceptos como *Clases, Objetos, Herencia, y Polimorfismo*.
 
