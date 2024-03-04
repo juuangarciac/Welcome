@@ -16,27 +16,6 @@
 ### The Best One
 En esta sección quería destacar el proyecto [**The Drop Hunter**](https://github.com/juuangarciac/es.theDropHunter.springReact) ya que engloba todos mis conocimientos sobre el desarrollo, gestión y despliegue de aplicaciones web. **TODO**
 
-## Despliegue
-### Preparación del entorno (Base de datos, Gestor de base de datos)
-A continuación, se proporcionan los pasos previos para poder desplegar cada uno de los proyectos en un entorno local:
-
-### Usando herramientas de despliegue (*XAMPP*, *AppServe*)
-***Nota***: Es importante recordar que la plataforma XAMPP proporciona facilidades para el despliegue de aplicaciones que usan el lenguaje de programación PHP, por tanto para el despliegue de aplicaciones basadas en otros lenguajes, como *java*, se necesitará realizar de forma independiente la descarga de los paquetes y dependencias necesarios.
-
-En este caso, en el que se quiere desplegar la aplicación usando una herramienta como *XAMPP*, únicamente sería necesario:
-
-1. Copiar la carpeta o directorio del proyecto que deseemos desplegar, por ejemplo *LaBodeguitaElRubio* en el directorio */htdocs*, y seguir los pasos para el despliegue indicados dentro del directorio de dicho proyecto.
-
-2. En la carpeta raíz de este repositorio, se encuentra el directorio *tools*. En este directorio se encontrará el fichero necesario para importar la base de datos, a través de su sistema gestor de base de datos, por ejemplo *phpMyAdmin*.
-
-### Usando Tecnología de contenedores
-Despliegue usando la tecnología de contenerización (Docker)
-   1. Acceder al directorio [*tools*](https://github.com/juuangarciac/es.juuangarciac.portfolio.doc/tree/main/tools). En este directorio estará disponible el fichero `docker-compose.yaml', que despliega un microservicio de base de datos **MySQL**, junto al gestor **PHPmyAdmin**.
-   2. Una vez situados, seleccionar el directorio o carpeta del proyecto que se desee desplegar, por ejemplo *MangoPhone*.
-   3. Ejecutar el comando `docker-compose up -d`, estó levantará en diferentes contenedores los microservicios necesarios que conectarán con la aplicación.
-
-**Nota:** Una vez terminada la ejecución de la aplicación, ejecutar `docker-compose down` para termninar la ejecución de los contenedores.
-
 ## Contacto
 
 Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juangarcandon@gmail.com.
