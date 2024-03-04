@@ -13,6 +13,9 @@
 
    - [**VitaSnap**](https://github.com/juuangarciac/es.juuangarciac.vitasnap.java): VitaSnap se realizó con la motivación de indagar más acerca del concepto de **API privada**. Su desarrollo se llevo a cabo usando el framework *SpringBoot*. También se implementó una aplicación hecha en *React* para realizar peticiones a la API. Dado al exponencial crecimiento del uso de las APIs como parte de la arquitectura de cualquier sistema, me ví en la obligación de mejorar mis conocimientos en este ámbito del desarrollo web. Esto me llevó a desarrollar una *API protegida con APIkeys* usando el framework de *SpringBoot*, así como las funcionalidades proporcionadas por *SpringSecurity*, para garantizar un acceso seguro a la misma.
 
+### DevOps
+ - [Prácticas DevOps](https://github.com/juuangarciac/es.uca.practicasVS.devops): Este repositorio alberga un conjunto de prácticas realizadas en la asignatura *Virtualización de Sistemas*, donde se exploran diversas herramientas de despliegue como *Azure Pipelines*, *GitLab*, *Terraform*, *Jenkins*, *Docker*, entre otras. A través de estas prácticas, obtuve una sólida comprensión de la tecnología de contenerización y su aplicación en la preparación de infraestructura de sistemas que implementan **CI/CD**. Este enfoque representa una buena práctica para mejorar la eficiencia y la colaboración dentro de los equipos de desarrollo.
+   
 ## Contacto
 
 Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juangarcandon@gmail.com.
