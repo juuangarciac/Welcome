@@ -17,7 +17,7 @@
 En esta sección quería destacar el proyecto [**The Drop Hunter**](https://github.com/juuangarciac/es.theDropHunter.springReact) ya que engloba todos mis conocimientos sobre el desarrollo, gestión y despliegue de aplicaciones web. **TODO**
 
 ### DevOps
-
+**TO-DO**
 ## Contacto
 
 Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juangarcandon@gmail.com.
