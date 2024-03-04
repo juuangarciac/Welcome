@@ -31,7 +31,7 @@ En este caso, en el que se quiere desplegar la aplicación usando una herramient
 
 ### Usando Tecnología de contenedores
 Despliegue usando la tecnología de contenerización (Docker)
-   1. Acceder al directorio *tools*.
+   1. Acceder al directorio [*tools*](https://github.com/juuangarciac/es.juuangarciac.portfolio.doc/tree/main/tools). En este directorio estará disponible el fichero `docker-compose.yaml', que despliega un microservicio de base de datos **MySQL**, junto al gestor **PHPmyAdmin**.
    2. Una vez situados, seleccionar el directorio o carpeta del proyecto que se desee desplegar, por ejemplo *MangoPhone*.
    3. Ejecutar el comando `docker-compose up -d`, estó levantará en diferentes contenedores los microservicios necesarios que conectarán con la aplicación.
 
