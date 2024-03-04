@@ -13,8 +13,10 @@
 
    - [**VitaSnap**](https://github.com/juuangarciac/es.juuangarciac.vitasnap.java): VitaSnap se realizó con la motivación de indagar más acerca del concepto de **API privada**. Su desarrollo se llevo a cabo usando el framework *SpringBoot*. También se implementó una aplicación hecha en *React* para realizar peticiones a la API. Dado al exponencial crecimiento del uso de las APIs como parte de la arquitectura de cualquier sistema, me ví en la obligación de mejorar mis conocimientos en este ámbito del desarrollo web. Esto me llevó a desarrollar una *API protegida con APIkeys* usando el framework de *SpringBoot*, así como las funcionalidades proporcionadas por *SpringSecurity*, para garantizar un acceso seguro a la misma.
 
-### The Best One
+#### The Best One
 En esta sección quería destacar el proyecto [**The Drop Hunter**](https://github.com/juuangarciac/es.theDropHunter.springReact) ya que engloba todos mis conocimientos sobre el desarrollo, gestión y despliegue de aplicaciones web. **TODO**
+
+### DevOps
 
 ## Contacto
 
