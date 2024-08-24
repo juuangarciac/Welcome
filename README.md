@@ -1,6 +1,6 @@
 # Mi Portfolio
 
-¡Hola! Soy Juan Garcia, un desarrollador de software con experiencia. Este es mi portafolio de GitHub, donde comparto algunos de mis proyectos y habilidades.
+¡Hola! Soy Juan Garcia, estudiante de Ingeniería Informática con especialización en IT. Este es mi portafolio de GitHub, donde comparto algunos de mis proyectos y habilidades.
 
 ## Proyectos
 ### Aplicaciones de Terminal
