@@ -1,27 +1,27 @@
-# Mi Portfolio
+# My Portfolio
 
-¡Hola! Soy Juan Garcia, estudiante de Ingeniería Informática con especialización en IT. Este es mi portafolio de GitHub, donde comparto algunos de mis proyectos y habilidades.
+Hi! I'm Juan Garcia, a Computer Science student specializing in IT. This is my portfolio, where I share some of my projects and skills.
 
-## Proyectos
-### Aplicaciones de Terminal
-   - [**Tienda electrónica**](https://github.com/juuangarciac/es.uca.e-shop.cpp): Aplicación de terminal desarrollada exclusivamente con el lenguaje de programación *C++*. Esta aplicación formó parte de mi aprendizaje en la *Programación Orientada a Objetos*, introduciendome a conceptos como *Clases, Objetos, Herencia, y Polimorfismo*.
+## University Projects
+### Terminal Applications
+- [**E-commerce**](https://github.com/juuangarciac/es.uca.e-shop.cpp): Terminal application developed in *C++*. This application was part of my learning in *Object-Oriented Programming*, introducing me to concepts such as *Classes, Objects, Inheritance, and Polymorphism*.
 
-### Desarrollo Web
-   - [**MyWineShop**](https://github.com/juuangarciac/es.uca.mywineshop.laravel): Aplicación web desarrollada con *laravel*. Esta aplicación se realizó como proyecto de prácticas de la asignatura *Internet y Negocio Electrónico*. Consiste en una plataforma de **e-commerce**. A través del desarrollo de esta aplicación me introduje en el mundo del desarrollo web, esto me brindó mis primeros conocimientos sobre la arquitectura *Modelo-Vista-Controlador*, desarrollo de aplicaciones web usando el lenguaje de programación *PHP*, conexión con un servidor de bases de datos, junto a su correspondiente gestor. También adquirí conocimientos de desarrollo de interfaces de usuario, para ello se uso el framework **bootstrap**, y por supuesto el lenguaje de marcado sobre el que se basa la web *HTML*.
+### Web Development
+- [**MyWineShop**](https://github.com/juuangarciac/es.uca.mywineshop.laravel): Web application developed with *Laravel*. This application was created as a practical project for the course *Internet and Electronic Business*. It is an **e-commerce** platform. Through the development of this application, I was introduced to the world of web development, which gave me my first knowledge of the *Model-View-Controller* architecture, web application development using the *PHP* programming language, database server connection, along with its corresponding management. I also gained knowledge of user interface development, using the **Bootstrap** framework, and of course the markup language on which the web is based, *HTML*.
 
 ![](https://github.com/juuangarciac/es.juuangarciac.portfolio.doc/blob/main/img/portfolio_juangarcandon_mywineshop.png)
      
-   - [**OMV(Operadora Virtual de Telecomunicaciones) *MangoPhone***](https://github.com/Manuel-Coca/iw2023-2024-MangoPhone): Aplicación web desarrollada con *Vaadin y Spring Boot* y desplegada en *AWS*. La plataforma *MangoPhone* se desarrolló como proyecto de prácticas de la asignatura *Ingeniería Web*. Esta plataforma proporciona un *front-office* para clientes, y un *back-office* para empleados. En el desarrollo de *MangoPhone* colaboramos diferentes compañeros, lo que a me aportó experiencia trabajando en equipo, aptitudes como gestión de problemas, colaboración, liderazgo, motivación. Aparte, adquirí conocimientos técnicos como el desarrollo de aplicaciones usando frameworks basados en el lenguaje de programación *Java*, y la arquitectura *Layers*. El despliegue de la aplicación se realizó usando la plataforma **Amazon Web Services**.
+- [**OMV (Virtual Mobile Operator) *MangoPhone***](https://github.com/Manuel-Coca/iw2023-2024-MangoPhone): Web application developed with *Vaadin and Spring Boot* and deployed on *AWS*. The *MangoPhone* platform was developed as a practical project for the course *Web Engineering*. This platform provides a *front-office* for customers and a *back-office* for employees. In the development of *MangoPhone*, I collaborated with different teammates, which gave me experience in teamwork, skills such as problem management, collaboration, leadership, and motivation. Additionally, I acquired technical knowledge in application development using frameworks based on the *Java* programming language and the *Layers* architecture. The application was deployed using the **Amazon Web Services** platform.
      
    ![](https://github.com/juuangarciac/es.juuangarciac.portfolio.doc/blob/main/img/portfolio_juangarcandon_mangophone.png)
 
-   - [**VitaSnap**](https://github.com/juuangarciac/es.juuangarciac.vitasnap.java): VitaSnap se realizó con la motivación de indagar más acerca del concepto de **API privada**. Su desarrollo se llevo a cabo usando el framework *SpringBoot*. También se implementó una aplicación hecha en *React* para realizar peticiones a la API. Dado al exponencial crecimiento del uso de las APIs como parte de la arquitectura de cualquier sistema, me ví en la obligación de mejorar mis conocimientos en este ámbito del desarrollo web. Esto me llevó a desarrollar una *API protegida con APIkeys* usando el framework de *SpringBoot*, así como las funcionalidades proporcionadas por *SpringSecurity*, para garantizar un acceso seguro a la misma.
+- [**VitaSnap**](https://github.com/juuangarciac/es.juuangarciac.vitasnap.java): VitaSnap was developed with the motivation to delve deeper into the concept of a **private API**. It was developed using the *SpringBoot* framework. A *React* application was also implemented to make requests to the API. Given the exponential growth of API usage as part of the architecture of any system, I felt compelled to enhance my knowledge in this area of web development. This led me to develop an *API protected with API keys* using the *SpringBoot* framework, as well as the functionalities provided by *SpringSecurity*, to ensure secure access to it.   
 
 ### DevOps
- - [Prácticas DevOps](https://github.com/juuangarciac/es.uca.practicasVS.devops): Este repositorio alberga un conjunto de prácticas realizadas en la asignatura *Virtualización de Sistemas*, donde se exploran diversas herramientas de despliegue como *Azure Pipelines*, *GitLab*, *Terraform*, *Jenkins*, *Docker*, entre otras. A través de estas prácticas, obtuve una sólida comprensión de la tecnología de contenerización y su aplicación en la preparación de infraestructura de sistemas que implementan **CI/CD**. Este enfoque representa una buena práctica para mejorar la eficiencia y la colaboración dentro de los equipos de desarrollo.
-   
-## Contacto
+ - [DevOps Practices](https://github.com/juuangarciac/es.uca.practicasVS.devops): This repository hosts a set of practices carried out in the course *System Virtualization*, where various deployment tools such as *Azure Pipelines*, *GitLab*, *Terraform*, *Jenkins*, *Docker*, among others, are explored. Through these practices, I gained a solid understanding of containerization technology and its application in preparing system infrastructure that implements **CI/CD**. This approach represents a best practice for improving efficiency and collaboration within development teams.
 
-Si desea ponerse en contacto conmigo, puede enviarme un correo electrónico a juangarcandon@gmail.com.
+## Contact
 
-¡Gracias por visitar mi portafolio!
+If you would like to get in touch with me, you can send me an email at juangarcandon@gmail.com.
+
+Thank you for visiting my portfolio!
